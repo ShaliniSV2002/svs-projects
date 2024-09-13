@@ -1,6 +1,4 @@
------------------M A S S _ M A I L _ D I S P A T C H E R---------------------------
 
--> Project Description
 The Mass Mail Dispatcher project is a bulk email dispatching system designed to send emails in bulk to a large number of recipients.
 The system has been developed using HTML, CSS, and JavaScript, and it uses the EmailJS API to send emails, making the system efficient and reliable.
 The project can also sort and validate email addresses from CSV files, ensuring that only valid email addresses are used.
@@ -62,13 +60,6 @@ The Mass Mail Dispatcher project uses the following dependencies:
  ⫸ The project has undergone unit testing and integration testing to ensure that it meets all the requirements set out in the initial proposal.
 
 ---------------------------------------------------------------------------------------------
-Project By - " A M A N _ V I J A Y _ K A D A M "
-
-@ E X P O S Y S _ D A T A _ L A B S
-
-@ W E B _ D E V E L O P M E N T
-
-@ 2 2 / 0 2 / 2 0 2 3
 
 
 ==============================================================================================
